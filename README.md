@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+Welcome to Tech Theory.
 
-You can use the [editor on GitHub](https://github.com/Tech-Theory/Tech-Theory/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The reason we stay loyal to brands is because of their values. The best brands strive to combine physical, emotional, and logical elements into one exceptional customer (and employee) experience that you value as much as they do. Nowhere are those values more visible than in the company's mission statement.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When you successfully create a connection with your customers and employees, many of them might stay loyal to you for life. This helps you increase your overall profitability while building a solid foundation of brand promoters.
 
-### Markdown
+But achieving that connection is no easy task. The companies that succeed are ones that stay true to their core values over the years and create a company that employees and customers are proud to associate with.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+That's where company vision and mission statements come in.
 
-```markdown
-Syntax highlighted code block
+Our products
 
-# Header 1
-## Header 2
-### Header 3
+At tech theory we have lots of products that we can sell you such as computers, phones, laptops, ipads, televisons e.g .We sell them to you fpr ridicoulous prices such as the iphone 12 goes for about £1,300 we can sell that to you for £500 we sell things cheaper than other companies because some people might not be able to afford some of the phones that,s why we do all our items alot cheaper.
 
-- Bulleted
-- List
+Trade
 
-1. Numbered
-2. List
+Trading is giving us your phones and we give you money for them , for example if you give us a iphone 7, we can give you around £150 for it and not just phones for other devices aswell.
 
-**Bold** and _Italic_ and `Code` text
+Discounts 
 
-[Link](url) and ![Image](src)
-```
+We do tend to do discounts alot but only if you buy an item for example lets say you buy and iphone 8 we can take 50% of your next order it depends on what you buy.If you buy an iphone 8 you would get 25% of your next purchase but if you bought a iphone 11 we could take 65% off your next purchase it varies on what you purchase.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Deatails
 
-### Jekyll Themes
+For further information or questions as such contact out email which is TechTheoryOfficial@gmail.com or contact us with our phone number which is 07484642656.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tech-Theory/Tech-Theory/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have a nice day.
